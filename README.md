@@ -1,1 +1,1 @@
-"# Projeto Jaguar Responsivo" 
+Projeto Jaguar Responsivo
